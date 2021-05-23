@@ -1,8 +1,8 @@
 # CarDa By Team Reeb
-Throughout the International virtual innovation challenge, team reeb got the assignment to create a digital solution, that contributes in making skiing more sustainable.
+Throughout the International virtual innovation challenge, team Reeb got the assignment to create a digital solution, that contributes in making skiing more sustainable.
 After interviewing stakeholders, who mostly said, that they usually go skiing by car, evebthough they know its not good for the environment, team Reeb came up with the idea of CarDa.
 
-![CarDaLogo](https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/images/Cardas%20Logo.jpeg)
+<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/images/Cardas%20Logo.jpeg" width="250" height="250">
 
 
 ## What is Carda?
@@ -41,6 +41,12 @@ CarDa is supposed to be something benefitial for all involved parties.
   2. Contribution to a good and sustainable reputation for beeing sustainable
   3. Potentially CarDa can also earn DSV some money, as explained above
 
--Business partners benefits:
+- Business partners benefits:
   1. The local businesses, can create an adventage, to other businesses in the same area
   2. Cheap advertisement, that is only rolled out to people, who will be in the area for sure
+
+We hope that as a user, you are interested in our product! If you want to find out more about our product Carda, you can also check out our Github repository and Wiki.
+
+GitHub Page: https://github.com/gxc-int-innovation-challenge21/gxc-team-11
+
+Wiki: https://github.com/gxc-int-innovation-challenge21/gxc-team-11/wiki
