@@ -2,7 +2,7 @@
 Throughout the International virtual innovation challenge, team Reeb got the assignment to create a digital solution, that contributes in making skiing more sustainable.
 After interviewing stakeholders, who mostly said, that they usually go skiing by car, evebthough they know its not good for the environment, team Reeb came up with the idea of CarDa.
 
-<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/Storyboard_final.jpeg" width="250" height="250">
+<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/Cardas%20Logo.jpeg" width="250" height="250">
 
 
 ## What is Carda?
@@ -12,7 +12,7 @@ The users who are asking for a ride than can see the offered rides and can "matc
 
 ## Storyboard
 The following storyboard, that has been created for CarDa, is showing, how the team imagined the usage of the app.
-![](https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/images/storyboard/Storyboard_final.jpeg)
+![](https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/Storyboard_final.jpeg)
 
 
 ## Why should someone use CarDa?
