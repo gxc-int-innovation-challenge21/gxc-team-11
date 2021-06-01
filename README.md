@@ -1,4 +1,4 @@
-# CarDa By Team Reeb test
+# CarDa By Team Reeb
 Throughout the International virtual innovation challenge, team Reeb got the assignment to create a digital solution, that contributes in making skiing more sustainable.
 After interviewing stakeholders, who mostly said, that they usually go skiing by car, evebthough they know its not good for the environment, team Reeb came up with the idea of CarDa.
 
