@@ -47,6 +47,6 @@ CarDa is supposed to be something benefitial for all involved parties.
 
 We hope that as a user, you are interested in our product! If you want to find out more about our product Carda, you can also check out our Github repository and Wiki.
 
-GitHub Page: https://github.com/gxc-int-innovation-challenge21/gxc-team-11
+GitHub Page: https://gxc-int-innovation-challenge21.github.io/gxc-team-11/
 
 Wiki: https://github.com/gxc-int-innovation-challenge21/gxc-team-11/wiki
