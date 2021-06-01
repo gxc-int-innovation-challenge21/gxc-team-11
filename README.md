@@ -12,7 +12,7 @@ The users who are asking for a ride than can see the offered rides and can "matc
 
 ## Storyboard
 The following storyboard, that has been created for CarDa, is showing, how the team imagined the usage of the app.
-![](https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/Storyboard_final.jpeg)
+![](./Storyboard_final.jpeg)
 
 
 ## Why should someone use CarDa?
