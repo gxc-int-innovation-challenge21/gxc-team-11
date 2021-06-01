@@ -2,7 +2,7 @@
 Throughout the International virtual innovation challenge, team Reeb got the assignment to create a digital solution, that contributes in making skiing more sustainable.
 After interviewing stakeholders, who mostly said, that they usually go skiing by car, evebthough they know its not good for the environment, team Reeb came up with the idea of CarDa.
 
-<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/Cardas%20Logo.jpeg" width="250" height="250">
+<img src="../main/Cardas%20Logo.jpeg" width="250" height="250">
 
 
 ## What is Carda?
