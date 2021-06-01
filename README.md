@@ -1,8 +1,10 @@
-# Hello there! 
+# Welcome
 
-<img src="./Cardas%20Logo.jpeg" width="250" height="250">
+We are Team Reeb and excited to present to you our contribuition to making the ski sport more sustainable: 
+## CarDA - a car-ride sharing dating app! 
+<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/images/Brown%20Mother's%20Day%20Phone%20Mockup%20Instagram%20Post.png" width="400" height="450">
 
-We are Team Reeb and excited to proudly present to you our contribuition to making the ski sport more sustainable - a car-ride sharing dating app! Wow!
+## Ready to save the environment with love? Then let's dive right into it and see what CarDa is all about!
 
 CarDa is an App, to find people near you to go skiing with. The main idea is, that the person offering a ride is searching for friends or a date and inserts his ride into CarDa, with all the information needed. 
 The users who are asking for a ride than can see the offered rides and can "match" with the person offering it. In the ideal case, the driver will pick up the other person and they will share the ride. In the end both will have saved CO2, because they only used one instead of two cars.
