@@ -2,7 +2,7 @@
 
 We are Team Reeb and excited to present to you our contribuition to making the ski sport more sustainable: 
 ## CarDA - a car-ride sharing dating app! 
-<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-11/blob/main/images/Brown%20Mother's%20Day%20Phone%20Mockup%20Instagram%20Post.png" width="400" height="450">
+<img src="images/Brown%20Mother's%20Day%20Phone%20Mockup%20Instagram%20Post.png" width="400" height="450">
 
 ## Ready to save the environment with love? Then let's dive right into it and see what CarDa is all about!
 
